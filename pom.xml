@@ -10,7 +10,7 @@
     <groupId>org.kaazing</groupId>
     <artifactId>community.license</artifactId>
     <name>community.license</name>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <url>https://github.com/kaazing/community</url>
 
