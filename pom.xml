@@ -2,17 +2,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.kaazing</groupId>
-        <artifactId>com.kaazing</artifactId>
-        <version>24</version>
+        <groupId>org.kaazing</groupId>
+        <artifactId>community</artifactId>
+        <version>1.2</version>
     </parent>
 
-    <groupId>org.kaazing</groupId>
     <artifactId>community.license</artifactId>
+    <description>This project has the license header that is appended to most Kaazing open source projects/files</description>
     <name>community.license</name>
     <version>1.2-SNAPSHOT</version>
 
-    <url>https://github.com/kaazing/community</url>
+    <url>https://github.com/kaazing/community.license</url>
 
     <scm>
         <connection>scm:git:${project.url}</connection>
